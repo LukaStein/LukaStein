@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 > Here we learn several concepts in biology and practising programming, scripting in several languages. \
 > For theory we learn about Genetics, Proteomics and DNA sequencing methods. :dna: \
 > We learned programming in Python, Java and webdeveloping with those languages in combination with Flask or Tomcat. \
-> For statistical analysis we've learnt to use R (in Rstudio). \
-> Furthermore we learn about several algorithms how they actually work and their Big O (time complexity). \ 
-> Additionally a topic we are teached about which I find really interesting are basic machine learning algorithms. \ 
+> For statistical analysis we've learnt to use R (in Rstudio).
+
+> Furthermore we learn about several algorithms how they actually work and their Big O (time complexity). \
+> Additionally a topic we are teached about which I find really interesting are basic machine learning algorithms. \
 > Also we learned about using git and basic linux command line usage.
 
 ## Personal projecting 🔭
