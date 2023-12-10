@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ## Personal projecting 🔭
 * Currently I'm eager to learn more about Julia.
 * Also I enjoy fiddling around with the linux environment and learning more commands for more efficient usage along working.
-
+* I've been working quite a bit in vim, but recently stepped over to neovim (a fork of vim) for setting up a prettier working enviroment using NvChad.
