@@ -1,7 +1,6 @@
-## About me 👋
 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-stein-a83ba225b/)
-
+## <div align="center">[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-stein-a83ba225b/)</div> 
+## <div align="left">About me 👋</div>
 <!--
 **Coldbirdie/Coldbirdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
