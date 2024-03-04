@@ -1,5 +1,6 @@
 ## About me 👋
 
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **Coldbirdie/Coldbirdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,3 +34,20 @@ Here are some ideas to get you started:
 * Currently I'm eager to learn more about Julia.
 * Also I enjoy fiddling around with the linux environment and learning more commands for more efficient usage along working.
 * I've been working quite a bit in vim, but recently stepped over to neovim (a fork of vim) for setting up a prettier working enviroment using NvChad [NeovimPersonalSetup](https://github.com/Coldbirdie/NeovimPersonalSetup).
+
+### Programming
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Web design
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![thymeleaf](https://img.shields.io/badge/thymeleaf-%23005C0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Datastoring and reporting
+![MariaDB](https://img.shields.io/badge/mariadb-%23121011.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
