@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 > Also we learned about using git and basic linux command line usage.
 
 ## Personal projecting 🔭
-* Currently I'm eager to learn more about Julia.
+* I'm currently pursuing the minor Advanced Datamining, where I learn how to make neural networks in Python and how to make Snakemake pipelines.
 * Also I enjoy fiddling around with the linux environment and learning more commands for more efficient usage along working.
+* Currently I'm eager to learn more about Julia.
 * I've been working quite a bit in vim, but recently stepped over to neovim (a fork of vim) for setting up a prettier working enviroment using NvChad [NeovimPersonalSetup](https://github.com/Coldbirdie/NeovimPersonalSetup).
-
 ### Programming
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
